@@ -65,7 +65,7 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_openai_api_key
 
 ## ▶️ Running the Project
-python main.py
+python rag_using_langchaing.py
 
 ## Example question used in the code:
 Can you summarize the video?
